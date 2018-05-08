@@ -1,0 +1,21 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.4\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Admin\CLionProjects\myrm
+CMake Warning at C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:743 (message):
+  Imported targets not available for Boost version
+Call Stack (most recent call first):
+  C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:842 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:1395 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:3 (find_package)
+
+
+CMake Warning at C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:743 (message):
+  Imported targets not available for Boost version
+Call Stack (most recent call first):
+  C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:842 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files (x86)/JetBrains/CLion 2016.3.4/bin/cmake/share/cmake-3.6/Modules/FindBoost.cmake:1395 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:3 (find_package)
+
+
+-- Could NOT find Boost
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Admin/CLionProjects/myrm/cmake-build-debug
